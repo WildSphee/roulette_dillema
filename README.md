@@ -14,3 +14,5 @@ if you're betting even and odd at the same time of the same size of bet. The cha
 
 this script proved me wrong. turns out no matter the mixture of bet: even or odd at the same time / 12 or odd / 12 or even. The expected loss is still the same
 Its -1/37 percent every single time.
+
+![image](https://github.com/WildSphee/roulette_dillema/assets/38903045/1855211e-dde2-46d3-bc16-e1c2eac85db1)
