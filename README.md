@@ -10,7 +10,7 @@ and for odd even also the same, 0 doesn't count
 if you're betting even and odd at the same time of the same size of bet. The chance of you winning is 0, cause you never gain any money
 
 ## my theory is this:
-## Betting a even number straight up - lets say 12, while betting odd at the same time, you have a larger expected loss than betting 12 and even at the same time
+## Betting a even number straight up - lets say 12, while betting odd at the same time, you have a larger expected loss than betting 12 and even at the same time. As 12 is even, you are betting against yourself
 
 this script proved me wrong. turns out no matter the mixture of bet: even or odd at the same time / 12 or odd / 12 or even. The expected loss is still the same
 Its -1/37 percent every single time.
